@@ -1,2 +1,2 @@
-# nonsense_muation
-I will explore the effect of nonsense mutation on the structure and function of proteins using deep learning. 
+# DeepSulfation
+Using deep learning to predict the sulfation sites in any given protein.
