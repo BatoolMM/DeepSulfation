@@ -6,4 +6,4 @@
 
 4 - Evaluate the predication performance and compare it to the other known methods.
 
-5- Deploying the model in the web using Streamlit and AWS.
+5 - Deploying the model in the web using Streamlit and AWS.
